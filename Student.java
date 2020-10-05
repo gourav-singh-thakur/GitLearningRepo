@@ -12,5 +12,6 @@ public class Student{
         rec.Total();
         System.out.println("Changes in dev branch to push over github");
         System.out.println("Changes in Master branch to push over github");
+          System.out.println("Changed dev for github");
     }
 }
