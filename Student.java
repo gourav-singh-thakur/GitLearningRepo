@@ -10,5 +10,6 @@ public class Student{
         Student st=new Student(2,"gaurav");
         Record rec=new Record();
         rec.Total();
+        System.out.println("Changes in dev branch to push over github");
     }
 }
