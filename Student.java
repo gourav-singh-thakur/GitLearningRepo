@@ -8,5 +8,7 @@ public class Student{
     public static void main(String args[])
     {
         Student st=new Student(2,"gaurav");
+        Record rec=new Record();
+        rec.Total();
     }
 }
